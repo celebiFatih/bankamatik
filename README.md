@@ -1,0 +1,2 @@
+# Bankamatik Simulasyonu
+Oluşturulan bu proje ile bir bankamatik sistemine kullanıcı kodu ve şifre girilmesi, yeni kullanıcının rastgele ve benzersiz olarak oluşturulan müsteri numarası ile kayıt edilmesi, kullanıcın kendi hesabından diğer kullanıcılara hesap numarası üzerinden para gondermesi, kullanıcıların para transferi işlemleri sonucunda hesaplarına değişikliklerin yansıtılması ve her kullanıcının kendi hesap hareketini ayrı bir sayfada göremeleri sağlanmıştır.
